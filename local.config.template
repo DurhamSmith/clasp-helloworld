@@ -1,0 +1,9 @@
+#
+# Location of the built externals-clasp 
+#export EXTERNALS_CLASP_DIR = $(HOME)/Development/externals-clasp
+
+# Location of clasp
+export CLASP_HOME = /root/clasp_home/clasp
+
+# The Clasp runtime you want to use (boehm, mps, boehmdc)
+export CLASP_RUNTIME = boehm
