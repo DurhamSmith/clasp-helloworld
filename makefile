@@ -89,4 +89,4 @@ ir:
 
 clean:
 	(cd hello-world; rm -f *.bc *.so *.ll)
-	(cd double-vector; rm -f *.bc *.so *.ll)
+
